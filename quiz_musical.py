@@ -38,7 +38,7 @@ spotify_data = pd.read_csv("spotify-2023.csv", encoding="latin1")
 
 
 
-st.title("🎵 Quiz Musical - Descubra Sua Playlist Ideal!")
+st.title("🎵 Compile Sua Playlist")
 st.write("Responda algumas perguntas rápidas e receba uma playlist personalizada!")
 
 
